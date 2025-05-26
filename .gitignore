@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Credentials
+client_secret.json
+google-ads.yaml
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
